@@ -12,7 +12,7 @@ var settings = {
     'radio_name': 'Karimata Radio',
 
     // URL of streaming
-    'url_streaming': 'https://stream.zeno.fm/a19s7heytusuv',
+    'url_streaming': 'https://s3.alhastream.com:8440/karimatafm',
 
     // When choosing icecast, make sure the file 'player.log' in the document root is writeable.
     // Choose between 'shoutcast' or 'icecast'
